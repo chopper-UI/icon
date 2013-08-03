@@ -13,7 +13,7 @@
 
 __注意：__示例中以.ex开头的class在实际使用场景中是不必要的，此类class只为可视化文档的展示做辅助作用。
 
-### 默认
+### 1. 三角形
 
 ````html
 <span class="ui-icon-triangle ui-icon-large">
@@ -26,9 +26,9 @@ __注意：__示例中以.ex开头的class在实际使用场景中是不必要�
 </span>
 ````
 
-### 方向
+#### 1.1 方向
 
-#### Left
+##### 1.1.1 Left
 
 ````html
 <span class="ui-icon-triangle-left ui-icon-large">
@@ -41,7 +41,7 @@ __注意：__示例中以.ex开头的class在实际使用场景中是不必要�
 </span>
 ````
 
-#### Right
+##### 1.1.2 Right
 
 ````html
 <span class="ui-icon-triangle-right ui-icon-large">
@@ -54,7 +54,7 @@ __注意：__示例中以.ex开头的class在实际使用场景中是不必要�
 </span>
 ````
 
-#### Bottom
+##### 1.1.3 Bottom
 
 ````html
 <span class="ui-icon-triangle-bottom ui-icon-large">
@@ -67,7 +67,7 @@ __注意：__示例中以.ex开头的class在实际使用场景中是不必要�
 </span>
 ````
 
-### 顏色
+#### 1.2 顏色
 
 ````html
 <span class="ui-icon-triangle">
