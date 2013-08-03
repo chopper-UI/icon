@@ -1,4 +1,7 @@
-[class*="ui-icon-triangle"]{
+.ui-icon-triangle,
+.ui-icon-triangle-bottom,
+.ui-icon-triangle-left,
+.ui-icon-triangle-right{
     width: 0; 
     height: 0; 
     border-width: 10px;
@@ -29,13 +32,13 @@
 
 
 /**! block size **/
-.ui-icon-large{
+.ui-icon-triangle-large{
     border-width: 14px;
 }
-.ui-icon-small{
+.ui-icon-triangle-small{
     border-width: 6px;
 }
-.ui-icon-mini{
+.ui-icon-triangle-mini{
     border-width: 4px;
 }
 /**! endblock size **/
