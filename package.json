@@ -1,0 +1,20 @@
+{
+  "name": "icon",
+  "description": "通用图标",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chopper-UI/icon",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chopper-UI/icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chopper-UI/icon/issues"
+  },
+  "family": "chopper",
+  "spm": {
+    "alias": {},
+    "output": [
+      "icon.css"
+    ]
+  }
+}

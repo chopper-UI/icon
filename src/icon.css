@@ -1,0 +1,54 @@
+[class*="ui-icon-triangle"]{
+    width: 0; 
+    height: 0; 
+    border-width: 10px;
+    border-style: solid;
+    border-color: #0E76BD;
+}
+
+.ui-icon-triangle{
+    border-top: 0 none!important;
+    border-left-color: transparent!important;
+    border-right-color: transparent!important;
+}
+.ui-icon-triangle-bottom{
+    border-bottom: 0 none!important;
+    border-left-color: transparent!important;
+    border-right-color: transparent!important;
+}
+.ui-icon-triangle-right{
+    border-right: 0 none!important;
+    border-top-color: transparent!important;
+    border-bottom-color: transparent!important;
+}
+.ui-icon-triangle-left{
+    border-left: 0 none!important;
+    border-top-color: transparent!important;
+    border-bottom-color: transparent!important;
+}
+
+
+/**! block size **/
+.ui-icon-large{
+    border-width: 14px;
+}
+.ui-icon-small{
+    border-width: 6px;
+}
+.ui-icon-mini{
+    border-width: 4px;
+}
+/**! endblock size **/
+
+
+/**! block color **/
+.ui-icon-triangle-green{
+    border-color: #00AD06;
+}
+.ui-icon-triangle-red{
+    border-color: #DD3D3D;
+}
+.ui-icon-triangle-gray{
+    border-color: #A9A9A9;
+}
+/**! endblock color **/
