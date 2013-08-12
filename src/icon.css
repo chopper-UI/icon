@@ -7,6 +7,16 @@
     border-width: 10px;
     border-style: solid;
     border-color: #0E76BD;
+    display: inline-block;
+    text-align: left;
+    letter-spacing: -3em;
+    overflow: hidden;
+}
+.ui-icon-triangle:first-letter ,
+.ui-icon-triangle-bottom:first-letter ,
+.ui-icon-triangle-left:first-letter ,
+.ui-icon-triangle-right:first-letter {
+    margin-left: -20em;
 }
 
 .ui-icon-triangle{
@@ -53,5 +63,53 @@
 }
 .ui-icon-triangle-gray{
     border-color: #A9A9A9;
+}
+/**! endblock color **/
+
+
+/**! block circle **/
+.ui-icon-circle{
+    width: 10px;
+    height: 10px;
+    background-color: #0E76BD;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    display: inline-block;
+    text-align: left;
+    letter-spacing: -3em;
+    overflow: hidden;
+}
+.ui-icon-circle:first-letter {
+    margin-left: -20em;
+}
+/**! endblock circle **/
+
+
+/**! block size **/
+.ui-icon-circle-large{
+    width: 14px;
+    height: 14px;
+}
+.ui-icon-circle-small{
+    width: 6px;
+    height: 6px;
+}
+.ui-icon-circle-mini{
+    width: 4px;
+    height: 4px;
+}
+/**! endblock size **/
+
+
+/**! block color **/
+.ui-icon-circle-green{
+    background-color: #00AD06;
+}
+.ui-icon-circle-red{
+    background-color: #DD3D3D;
+}
+.ui-icon-circle-gray{
+    background-color: #A9A9A9;
 }
 /**! endblock color **/
